@@ -2,7 +2,7 @@
   "name": "ecode",
   "version": "0.1.2",
   "private": true,
-  "homepage": "https://gurelbs.github.io/eCode/",
+  "homepage": "https://doit.cf",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.32",
     "@fortawesome/free-solid-svg-icons": "5.15.1",

@@ -99,7 +99,7 @@ export default function App(props) {
 					<CodeIcon />
 					<Typography variant='h6' component='h3' className='logo'>
 						<Link underline='none' href='/' onClick={preventDefault} color='inherit'>
-							eCode
+							doit
 						</Link>
 					</Typography>
 				</Toolbar>
